@@ -13,8 +13,8 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
-        <div>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
+        <div className=''>
           <p>Thành viên A </p>
         </div>
         <div class='flex justify-center items-center'>
@@ -29,15 +29,14 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
-        <div class='flex justify-center items-center border-b-4'>
+        <div class='flex justify-center items-center '>
           <p>Chức vụ</p>
         </div>
-        <div class='flex gap-[30px] justify-center items-center border-b-4'>
+        <div class='flex gap-[30px] justify-center items-center'>
           <button>
             <img src="./icon/plus-solid.svg" alt="Tăng" />
           </button>
@@ -46,7 +45,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr />
       <div class='w-full h-[60px] flex justify-between items-center bg-[#DCFFEC] py-3 px-6'>
         <div>
           <p>Phòng Công Tác Sinh Viên </p>
@@ -57,7 +55,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên A </p>
         </div>
@@ -73,8 +71,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
@@ -90,7 +87,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
       <div class='w-full h-[60px] flex justify-between items-center bg-[#DCFFEC] py-3 px-6'>
         <div>
           <p>Phòng Khảo Thí </p>
@@ -101,7 +97,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên A </p>
         </div>
@@ -117,8 +113,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
@@ -134,7 +129,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
       <div class='w-full h-[60px] flex justify-between items-center bg-[#DCFFEC] py-3 px-6'>
         <div>
           <p>Phòng Tài Chính - Quản Trị</p>
@@ -145,7 +139,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên A </p>
         </div>
@@ -161,8 +155,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
@@ -178,7 +171,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
       <div class='w-full h-[60px] flex justify-between items-center bg-[#DCFFEC] py-3 px-6'>
         <div>
           <p>Phòng Kế Hoạch - Tài Chính </p>
@@ -189,7 +181,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên A </p>
         </div>
@@ -205,8 +197,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
@@ -222,7 +213,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
       <div class='w-full h-[60px] flex justify-between items-center bg-[#DCFFEC] py-3 px-6'>
         <div>
           <p>Đoàn Viên </p>
@@ -233,7 +223,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên A </p>
         </div>
@@ -249,8 +239,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr />
-      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6'>
+      <div class='w-full h-[60px] flex justify-between items-center py-3 px-6 border-b-4 border-black'>
         <div>
           <p>Thành viên B </p>
         </div>
@@ -266,7 +255,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <hr className='w-4 font-bold' />
     </div>
   )
 }
